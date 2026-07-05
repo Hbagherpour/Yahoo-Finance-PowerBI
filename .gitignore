@@ -2,3 +2,7 @@
 *.csv
 #ignore all txt files
 *.txt
+#ignore some power bi files
+*.pbix
+#ignore some jpg files
+*.jpg
